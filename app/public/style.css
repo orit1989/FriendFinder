@@ -1,0 +1,28 @@
+h1 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 80px !important;
+}
+
+.jumbotron {
+    background-color: #9a66b6;
+}
+
+h4 {
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+body {
+    font-family: 'Indie Flower', cursive;    
+}
+
+#survey {
+    background-color: #9a66b6;
+}
+
+#submit {
+    color: black;
+}
